@@ -6,9 +6,7 @@ Esta pagina foi desenvolvida no plantão para mostrar como podemos desenvolver u
 ![Página no modelo normal](https://raw.githubusercontent.com/evertonfigueiredo/page-login-html-css/main/Pagina-normal.png)
 
 ### Página no tamanho mobile
-<div style="text-align:center">
-<img src='https://raw.githubusercontent.com/evertonfigueiredo/page-login-html-css/main/Pagina-mobile.png'>
-</div>
+![Página no modelo mobile](https://raw.githubusercontent.com/evertonfigueiredo/page-login-html-css/main/Pagina-mobile.png)
 
 ### Alguns links utilizados
 
