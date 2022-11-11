@@ -9,8 +9,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@main
-    - uses: evertonfigueiredo/page-login-html-css@main
       with:
         args: --acl public-read --follow-symlinks --delete --exclude '.git*/*'
       env:
