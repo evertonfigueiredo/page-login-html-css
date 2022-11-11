@@ -9,6 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: deploy
       with:
         args: --acl public-read --follow-symlinks --delete --exclude '.git*/*'
       env:
